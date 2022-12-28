@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.972a13c6.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.949844bd.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.ac97d1e9.js",
     "static/css/829.35e16ce7.chunk.css": "/goit-react-hw-05-movies/static/css/829.35e16ce7.chunk.css",
-    "static/js/829.80301e67.chunk.js": "/goit-react-hw-05-movies/static/js/829.80301e67.chunk.js",
+    "static/js/829.499e7590.chunk.js": "/goit-react-hw-05-movies/static/js/829.499e7590.chunk.js",
     "static/css/271.35e16ce7.chunk.css": "/goit-react-hw-05-movies/static/css/271.35e16ce7.chunk.css",
     "static/js/271.dc9f2745.chunk.js": "/goit-react-hw-05-movies/static/js/271.dc9f2745.chunk.js",
     "static/css/177.35e16ce7.chunk.css": "/goit-react-hw-05-movies/static/css/177.35e16ce7.chunk.css",
@@ -16,9 +16,9 @@
     "static/media/imgNotFound.jpg": "/goit-react-hw-05-movies/static/media/imgNotFound.876f3c013e9d37ce8268.jpg",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.972a13c6.css.map": "/goit-react-hw-05-movies/static/css/main.972a13c6.css.map",
-    "main.949844bd.js.map": "/goit-react-hw-05-movies/static/js/main.949844bd.js.map",
+    "main.ac97d1e9.js.map": "/goit-react-hw-05-movies/static/js/main.ac97d1e9.js.map",
     "829.35e16ce7.chunk.css.map": "/goit-react-hw-05-movies/static/css/829.35e16ce7.chunk.css.map",
-    "829.80301e67.chunk.js.map": "/goit-react-hw-05-movies/static/js/829.80301e67.chunk.js.map",
+    "829.499e7590.chunk.js.map": "/goit-react-hw-05-movies/static/js/829.499e7590.chunk.js.map",
     "271.35e16ce7.chunk.css.map": "/goit-react-hw-05-movies/static/css/271.35e16ce7.chunk.css.map",
     "271.dc9f2745.chunk.js.map": "/goit-react-hw-05-movies/static/js/271.dc9f2745.chunk.js.map",
     "177.35e16ce7.chunk.css.map": "/goit-react-hw-05-movies/static/css/177.35e16ce7.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.972a13c6.css",
-    "static/js/main.949844bd.js"
+    "static/js/main.ac97d1e9.js"
   ]
 }
